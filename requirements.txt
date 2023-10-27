@@ -1,0 +1,18 @@
+1.For scraping:
+requests
+BeautifulSoup
+--> make sure that "splash" is installed and running (it requires docker)
+    docker download link- https://www.docker.com/products/docker-desktop/
+    splash install link- https://splash.readthedocs.io/en/stable/
+2.Vader, Bert and custom ANN models
+scipy
+pandas
+numpy
+matplotlib
+tensorflow
+sklearn
+seaborn
+worldcloud
+nltk
+tqdm
+
